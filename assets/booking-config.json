@@ -1,0 +1,10 @@
+{
+  "startingPrice": "8",
+  "currency": "EUR",
+  "locale": "it",
+  "apiBaseUrl": "https://booking.travelmar.it",
+  "tourDateRules": {
+    "ESC": { "type": "weekdays", "days": [1, 3, 5], "until": "2026-08-31" },
+    "FDF": { "type": "fixed", "date": "2026-08-15" }
+  }
+}
